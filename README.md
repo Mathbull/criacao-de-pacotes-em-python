@@ -1,3 +1,8 @@
+<div align="center" id="top"> 
+  <img src="./.github/packge.jpg" alt="Criacao De Pacotes Em Python" />
+</div>
+
+
 # Criação De Pacotes Em Python
 O projeto tem como objetivo aplicar os conhecimentos adquiridos durante o curso "Descomplicando a criação de pacotes de processamento de imagens em Python" ministrado por Karina Kato na plataforma Digital Innovation One (DIO).
 
