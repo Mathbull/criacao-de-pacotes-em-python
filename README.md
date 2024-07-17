@@ -3,7 +3,28 @@
 </div>
 
 
-# Criação De Pacotes Em Python
+<h1 align="center">Criação De Pacotes Em Python</h1>
+
+<p align="center">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/Mathbull/criacao-de-pacotes-em-python?color=56BEB8">
+
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/Mathbull/criacao-de-pacotes-em-python?color=56BEB8">
+
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/Mathbull/criacao-de-pacotes-em-python?color=56BEB8">
+
+ 
+</p>
+
+<p align="center">
+  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
+  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
+  <a href="https://github.com/isabellazramos" target="_blank">Autor</a>
+</p>
+
+<br>
+
+## :dart: Sobre ##
+
 O projeto tem como objetivo aplicar os conhecimentos adquiridos durante o curso "Descomplicando a criação de pacotes de processamento de imagens em Python" ministrado por Karina Kato na plataforma Digital Innovation One (DIO).
 
 A ideia principal do projeto é desenvolver um pacote Python que inclua uma função para converter texto em áudio. O pacote será chamado `text_to_speech` e conterá um módulo chamado `converter`. O módulo `converter` terá uma função chamada `converter_audio` que receberá uma frase e um nome de arquivo como parâmetros e retornará um arquivo de áudio com a frase em português.
