@@ -17,7 +17,7 @@ python -m twine upload --repository-url https://test.pypi.org/legacy/ dist/*
 
 ### Publicação Test Pypi
 
-![](images/publicacao_1.png)
+<img src="/introducao-pacotes/imgs/publicacao_1.png">
 
 ### Comando para instalar o pacote de teste
 
